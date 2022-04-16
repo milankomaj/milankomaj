@@ -3,3 +3,4 @@
 ![](https://github.com/milankomaj/stats/blob/master/generated/languages.svg)
 
 ![](https://dev-badge.eleonora.workers.dev/lastfm/last-played/last_fm_M?icon=lastfm&style=flat&scale=1.2)
+![](https://dev-badge.eleonora.workers.dev/spotify/playback-state?icon=spotify&style=flat&scale=1.2)
