@@ -5,3 +5,4 @@
 ![](https://dev-badge.eleonora.workers.dev/lastfm/last-played/last_fm_M?icon=lastfm&style=flat&scale=1.2)
 ![](https://dev-badge.eleonora.workers.dev/spotify/playback-state?icon=spotify&style=flat&scale=1.2)
 ![](https://dev-badge.eleonora.workers.dev/spotify/toptrack/short_term?icon=spotify&style=flat&scale=1.2)
+![](https://dev-badge.eleonora.workers.dev/spotify/recently-saved?icon=spotify&style=flat&scale=1.2)
