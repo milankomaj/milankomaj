@@ -7,7 +7,11 @@
 
 <figure>
 <img src="https://dev-badge.eleonora.workers.dev/lastfm/last-played/last_fm_M?icon=lastfm&style=flat&scale=1.3"></img>
+<img src="https://dev-badge.eleonora.workers.dev/lastfm/top-track/last_fm_M/1month?icon=lastfm&style=flat&scale=1.3"></img>
+<img src="https://dev-badge.eleonora.workers.dev/lastfm/top-track/last_fm_M/7day?icon=lastfm&style=flat&scale=1.3"></img>
+<!-- 
 <img src="https://dev-badge.eleonora.workers.dev/spotify/playback-state?icon=spotify&style=flat&scale=1.3"></img>
 <img src="https://dev-badge.eleonora.workers.dev/spotify/toptrack/short_term?icon=spotify&style=flat&scale=1.3"></img>
-<img src="https://dev-badge.eleonora.workers.dev/spotify/recently-saved?icon=spotify&style=flat&scale=1.3"></img>
+<img src="https://dev-badge.eleonora.workers.dev/spotify/recently-saved?icon=spotify&style=flat&scale=1.3"></img> 
+ -->
 </figure>
